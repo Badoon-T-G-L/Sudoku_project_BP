@@ -8,13 +8,15 @@ as of now, the project does not have any [Licenses](https://medium.com/@avinashv
 however, it was built by a student who is currently studying Computer engineering at [Shahid Beheshti University](https://www.sbu.ac.ir/). </br>
 Here's a few Screenshots of the project:
 
-![image](https://github.com/user-attachments/assets/12e3d389-791a-4ef7-8310-2dd2d36673d3) </br>
+![image](https://github.com/user-attachments/assets/032d41d9-f2d2-4b36-be26-d9054ca356ec)
+ </br>
 
 
-![image](https://github.com/user-attachments/assets/38d11742-fbb9-456f-bf40-7cbe0ea723c5) </br>
+![image](https://github.com/user-attachments/assets/dc85b017-aa84-4477-97ed-5c9c211b0044)
+ </br>
 
-
-![image](https://github.com/user-attachments/assets/3e3baf57-e647-4d63-9fe0-818abb3c9903) </br>
+![image](https://github.com/user-attachments/assets/f6970732-bcf5-48ce-84ac-3e6ef497ba68)
+ </br>
 
 
 
