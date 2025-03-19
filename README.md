@@ -36,3 +36,6 @@ You can commit in the following ways:
 3. Review the provided code.</br>
 
 
+## notes
+-every file especially clui.h have to be in the same place as they are in the repository because their location matters.
+
