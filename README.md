@@ -32,6 +32,14 @@ In this project you have the following abilities:
 4. To save your actions in a file whether you lose or not.
 5. To see the status of the previous players that have played your game.
 
+## how to play?
+1. sign in with a name via the sign in menu.
+2. enter your username.
+3. pick a difficulty of choice.
+5. use the arrow keys to navigate around. press s to save your game. press q to force quit. and press the number keys on your keyboard to submit the number of your choice.
+6. make 3 mistakes or run out of time and you will lose :)
+7. have fun!
+
 ## how can i commit?
 You can commit in the following ways:
 1. Use the Source code provided and expand upon the project. </br>
