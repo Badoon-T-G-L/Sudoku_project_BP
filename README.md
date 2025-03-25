@@ -5,7 +5,7 @@
 ## The repository and Summary
 This is a half-made project for the BP class. it is a semi-online Sudoku. in which you can play well... 9x9 sudoku. and do a few other things.
 you can contribute if you wish as well (especially if you like to fix and improve on it).
-
+Here's a few Screenshots of the project:
 
 ![image](https://github.com/user-attachments/assets/032d41d9-f2d2-4b36-be26-d9054ca356ec)
  </br>
@@ -53,4 +53,4 @@ the source code is the following: `https://github.com/Badoon-T-G-L/Sudoku_projec
 ## credits
 as of now, the project does not have any [Licenses](https://medium.com/@avinashvagh/github-licenses-explained-a-quick-guide-46d98ef4ca81).
 however, it was built by a student who is currently studying Computer engineering at [Shahid Beheshti University](https://www.sbu.ac.ir/). </br>
-Here's a few Screenshots of the project:
+
