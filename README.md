@@ -20,6 +20,8 @@ Here's a few Screenshots of the project:
 
 
 
+## How to play?
+as long as all of the files are correctly recieved into your computer, running the executable file should be able to start the game.
 
 
 ## Features
@@ -28,6 +30,7 @@ In this project you have the following abilities:
 2. To set the difficulty of your game.
 3. To play the game.
 4. To save your actions in a file whether you lose or not.
+5. To see the status of the previous players that have played your game.
 
 ## how can i commit?
 You can commit in the following ways:
