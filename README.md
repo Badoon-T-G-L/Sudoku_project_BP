@@ -42,7 +42,7 @@ In this project you have the following abilities:
 ## how can i commit?
 You can commit in the following ways:
 1. Use the Source code provided and expand upon the project. </br>
-the source code is the following: `https://github.com/Badoon-T-G-L/Sudoku_project_BP.git`
+the repository of the source code is the following: `https://github.com/Badoon-T-G-L/Sudoku_project_BP.git`
 2. Leave a review on this page. </br>
 3. Review the provided code.</br>
 
