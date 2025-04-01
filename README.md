@@ -39,8 +39,8 @@ In this project you have the following abilities:
 6. make 3 mistakes or run out of time and you will lose :)
 7. have fun!
 
-## how can i commit?
-You can commit in the following ways:
+## how can i contribute?
+You can contribute in the following ways:
 1. Use the Source code provided and expand upon the project. </br>
 the repository of the source code is the following: `https://github.com/Badoon-T-G-L/Sudoku_project_BP.git`
 2. Leave a review on this page. </br>
